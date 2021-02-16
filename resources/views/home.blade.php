@@ -1,1 +1,1 @@
-<p>o preço do bitcoin é {{ $data ?? 'gostosa' }}</p>
+<p>o preço do bitcoin é {{ $data ?? 'BITCOIN' }}</p>
